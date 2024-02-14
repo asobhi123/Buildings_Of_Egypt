@@ -1,5 +1,5 @@
 # Buildings_Of_Egypt
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
